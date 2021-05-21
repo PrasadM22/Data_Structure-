@@ -12,7 +12,9 @@ public class Hash_Table {
 		
 	System.out.println("Welcome Hash Table Data Structure");
 	
-	String str = "To be or not to be";
+	String str = "Paranoids are not paranoid because they "
+			+ "are paranoid but because they keep putting "
+			+ "themselves deliberately into paranoid avoidable situations";
 	String arr[]=str.split(" ");
 	for(int i=0;i<arr.length;i++)
 	{
